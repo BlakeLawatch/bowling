@@ -1,0 +1,16 @@
+.cant-read {
+    word-spacing: 25px;
+}
+
+.bowling-pins {
+    max-height: 50vh;
+}
+
+.back-color {
+    background-color: #e0d5d5;
+}
+
+.border-box {
+    border: 2px solid gray;
+    box-shadow: 5px 5px 5px grey;
+}
